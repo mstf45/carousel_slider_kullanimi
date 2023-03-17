@@ -13,8 +13,8 @@ class _PromotionPageState extends State<PromotionPage> {
     'assets/t.jpg',
     'assets/v.jpg',
     'assets/y.jpg',
-    'assets/a.png',
-    'assets/b.png',
+    'assets/a.jpg',
+    'assets/b.jpg',
   ];
   String titleText = 'carousel slider kullanmı';
 
