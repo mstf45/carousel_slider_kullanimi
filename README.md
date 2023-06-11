@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+Video
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/mstf45/carousel_slider_kullanimi/assets/69422816/5a649bf7-aa39-43ad-bc61-d0efea60d3a6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
